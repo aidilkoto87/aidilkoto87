@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Aidil Koto — Data & Full-Stack Developer" width="100%"/>
+<img src="./hero.svg" alt="Aidil Koto — Data & Full-Stack Developer" width="100%"/>
 
 <br/>
 
